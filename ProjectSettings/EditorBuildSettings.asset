@@ -6,31 +6,34 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/HomeScene.unity
+    path: Assets/Planet/PlanetsScenes/HomeScene.unity
     guid: 985f17e8ea550f848865f1eae0a6778f
   - enabled: 1
-    path: Assets/Scenes/Earth.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/GardeniAR/GardeniAR.unity
+    guid: 9b80899602182664ea7715cc2fc8427a
   - enabled: 1
-    path: Assets/Scenes/Jupiter.unity
+    path: Assets/Jet Turbine Simulation/JetTurbine.unity
+    guid: 8a0719bb6042a734597b9410d741b8ca
+  - enabled: 1
+    path: Assets/Planet/PlanetsScenes/Jupiter.unity
     guid: e90810a73d50c9f44b4560aac38fb8b3
   - enabled: 1
-    path: Assets/Scenes/Mars.unity
+    path: Assets/Planet/PlanetsScenes/Mars.unity
     guid: ff33873f605c03546998d37b251ad9f7
   - enabled: 1
-    path: Assets/Scenes/Mercury.unity
+    path: Assets/Planet/PlanetsScenes/Mercury.unity
     guid: 8912701031533374f9f27141fcf5233a
   - enabled: 1
-    path: Assets/Scenes/Neptune.unity
+    path: Assets/Planet/PlanetsScenes/Neptune.unity
     guid: 526efb3120a4db847841aa5d0fca8521
   - enabled: 1
-    path: Assets/Scenes/Saturn.unity
+    path: Assets/Planet/PlanetsScenes/Saturn.unity
     guid: d3c7ef2204f970640a31982373fb0c1c
   - enabled: 1
-    path: Assets/Scenes/Venus.unity
+    path: Assets/Planet/PlanetsScenes/Venus.unity
     guid: 19ebbc902853e9d40b28389e3943417a
   - enabled: 1
-    path: Assets/Scenes/Uranus.unity
+    path: Assets/Planet/PlanetsScenes/Uranus.unity
     guid: 966e96ad71702514ab9394b7b9fc236b
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c9c6d1c2122b75d4d876cd7a78a8f479, type: 2}
